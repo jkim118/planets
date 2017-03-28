@@ -1,4 +1,5 @@
 a.data
 b.data
 c.data
-results/
+results/data
+.Rproj.user
